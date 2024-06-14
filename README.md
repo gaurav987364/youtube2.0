@@ -1,8 +1,8 @@
-# React + Vite
+# YouTube Clone2.0 ![YtYoutubeGIF](https://github.com/gaurav987364/youtube2.0/assets/145903987/1030520c-96c2-4a38-beef-cce6f85fdffb)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+Hey,this is the youtube clone just the first project after complete some react !
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Live Preview of the app:-
+youtube2-0-ruby.vercel.app
+
